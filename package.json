@@ -5,15 +5,15 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
     "thwack": "0.2.1"
   },
   "devDependencies": {
-    "@types/react": "16.9.19",
-    "@types/react-dom": "16.9.5",
-    "typescript": "3.7.5"
+    "@types/react": "16.9.34",
+    "@types/react-dom": "16.9.6",
+    "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
