@@ -8,7 +8,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "thwack": "0.2.1"
+    "thwack": "0.6.2"
   },
   "devDependencies": {
     "@types/react": "16.9.34",
